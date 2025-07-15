@@ -45,14 +45,6 @@ This project provides a comprehensive analysis of Roche Group's subsidiary struc
   - Data quality metrics and insights
   - Proper caching implementation for optimal performance
 
-### 5. Deployment Script
-- **File**: `deploy_streamlit_app.sql`
-- **Purpose**: Deploys the Streamlit application to Snowflake
-- **Components**:
-  - Stage creation for application files
-  - Streamlit app configuration
-  - Permission management
-
 ## Business Segments Covered
 
 ### 1. Pharmaceuticals
